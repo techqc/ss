@@ -51,8 +51,8 @@
 #define CRYPTONOTE_PROTOCOL_HOP_RELAX_COUNT             3      //value of hop, after which we use only announce of new block
 
 
-#define P2P_DEFAULT_PORT                                8080
-#define RPC_DEFAULT_PORT                                8081
+#define P2P_DEFAULT_PORT                                18666
+#define RPC_DEFAULT_PORT                                18667
 #define COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT           1000
 
 #define P2P_LOCAL_WHITE_PEERLIST_LIMIT                  1000
